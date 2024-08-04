@@ -1,0 +1,23 @@
+{
+    "MONGODB": {
+        "GLOBAL": {
+            "DATABASE": {
+                "BACKEND_NODEJS": {
+                    "COLLECTION": {
+                        "ADMIN": "admin",
+                        "CODE_REGISTRATION": "code_registration",
+                        "CODE_VERFICATION": "code_verification",
+                        "LOG": "log",
+                        "PROPERTY": "property",
+                        "USER": "user",
+                        "ROLE": "role",
+                        "GOAL": "goal"
+                    },
+                    "NAME": "backend-nodejs"
+                }
+            },
+            "URI": "mongodb+srv://talib:saj$p@ES0yJKw3Fr@nodejs.u0k4wdy.mongodb.net/",
+            "USE_TEST_PIN": true
+        }
+    }
+}
