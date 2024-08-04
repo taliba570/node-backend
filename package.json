@@ -1,0 +1,15 @@
+{
+    "name": "backend-nodejs",
+    "version": "1.0.0",
+    "description": "nodejs project to have startup project skill",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app",
+      "start-local": "nodemon --inspect app",
+      "dev": "nodemon app",
+      "test": "jest"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
